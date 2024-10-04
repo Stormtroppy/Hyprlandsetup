@@ -29,5 +29,5 @@ Swaync (or replace for another swaybar / waybar notification center)</p>
 <h2 id="helping">Helping</h2>
 <p>If I listed a step wrong / there is a better method, then open an issue / do a merge request!</p>
 <h2 id="issues">Issues</h2>
-<p>By default, apps are dark mode. The config file for hyperland tries to fix this but it does not work. Please help if you can with this!</p>
+<p>By default, apps are dark mode. The config file for hyperland tries to fix this but it does not work. Please help if you can with this! Another thing that is not an issue on its own, this does not include a menu to open apps, you have to make that your self.</p>
 
