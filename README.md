@@ -11,7 +11,7 @@
 <li>Hyprpaper (or replace for another wallpaper system)</li>
 <li>Swaync (or replace for another swaybar / waybar notification center)</li>
 <li>Nautilius (or replace with another file manager)</li>
-<li>A hycursor (by default uses rose-pine hyprcursor but a place to find some is <a href=“https://github.com/sakshatshinde/hyprcursor-themes”>here</a>)</li>
+<li>A hycursor (by default uses rose-pine hyprcursor but a place to find some is https://github.com/sakshatshinde/hyprcursor-themes )</li>
 <h2 id="install">Install</h2>
 <ol>
 <li>Download the Code</li>
