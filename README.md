@@ -1,18 +1,17 @@
----
-
-
----
-
+<!--God I'm so ass at html-->
 <h2 id="intro">Intro</h2>
 <p>Hello, I see you want a setup for hyprland, since you entered this repo. Do you want one like mine?<br>
 <img src="https://i.imgur.com/L5iOA6Ml.png" alt="The setup"></p>
 <h2 id="dependencies">Dependencies</h2>
-<p>This needs the following:<br>
-Kitty<br>
-Hyprland<br>
-Swaybar<br>
-Hyprpaper (or replace for another wallpaper system)<br>
-Swaync (or replace for another swaybar / waybar notification center)</p>
+<p>This needs the following:
+<ol>
+<li>Kitty</li>
+<li>Hyprland</li>
+<li>Swaybar</li>
+<li>Hyprpaper (or replace for another wallpaper system)</li>
+<li>Swaync (or replace for another swaybar / waybar notification center)</li>
+<li>Nautilius (or replace with another file manager)</li>
+<li>A hycursor (by default uses rose-pine hyprcursor but a place to find some is <a src=https://github.com/sakshatshinde/hyprcursor-themes >here </a>)</li>
 <h2 id="install">Install</h2>
 <ol>
 <li>Download the Code</li>
